@@ -1,2 +1,2 @@
 # LeetCodeEx
-To pratice on exercise using LeetCode
+To practice on exercise using LeetCode
